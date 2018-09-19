@@ -632,7 +632,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [x] [Core Hash Tables (video) - 5:44](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables)
         - [x] [Data Structures (video) - 3:00:09](https://www.coursera.org/learn/data-structures/home/week/4)
         - [x] [Phone Book Problem (video) - 4:16](https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem)
-        - [ ] distributed hash tables:
+        - [x] distributed hash tables:
             - [Instant Uploads And Storage Optimization In Dropbox (video) - 10:38](https://www.coursera.org/learn/data-structures/lecture/DvaIb/instant-uploads-and-storage-optimization-in-dropbox)
             - [Distributed Hash Tables (video) - 12:00](https://www.coursera.org/learn/data-structures/lecture/tvH8H/distributed-hash-tables)
 
