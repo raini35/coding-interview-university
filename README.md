@@ -630,7 +630,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [x] [Supporting Hashing (video) - 3:22](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Supporting-hashing/149042/177128-4.html)
         - [x] [Language Support Hash Tables (video) - 4:23](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Language-support-hash-tables/149042/177129-4.html)
         - [x] [Core Hash Tables (video) - 5:44](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables)
-        - [ ] [Data Structures (video) - 3:00:09](https://www.coursera.org/learn/data-structures/home/week/4)
+        - [x] [Data Structures (video) - 3:00:09](https://www.coursera.org/learn/data-structures/home/week/4)
         - [ ] [Phone Book Problem (video) - 4:16](https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem)
         - [ ] distributed hash tables:
             - [Instant Uploads And Storage Optimization In Dropbox (video) - 10:38](https://www.coursera.org/learn/data-structures/lecture/DvaIb/instant-uploads-and-storage-optimization-in-dropbox)
