@@ -592,7 +592,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - ### Stack
     - [x] [Stacks (video) - 10:20](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
     - [x] [Using Stacks Last-In First-Out (video) - 4:24 ](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html)
-    - [ ] Will not implement. Implementing with array is trivial.
+    - [x] Will not implement. Implementing with array is trivial.
 
 - ### Queue
     - [x] [Using Queues First-In First-Out(video) - 4:06](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html)
@@ -624,7 +624,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [ ] [(Advanced) Randomization: Universal & Perfect Hashing (video) - 1:21:50](https://www.youtube.com/watch?v=z0lJ2k0sl1g&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=11)
         - [ ] [(Advanced) Perfect hashing (video) - 1:19:59](https://www.youtube.com/watch?v=N0COwN14gt0&list=PL2B4EEwhKD-NbwZ4ezj7gyc_3yNrojKM9&index=4)
 
-    - [ ] Online Courses:
+    - [x] Online Courses:
         - [x] [Understanding Hash Functions (video) - 4:47](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Understanding-hash-functions/149042/177126-4.html)
         - [x] [Using Hash Tables (video) - 4:50](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-hash-tables/149042/177127-4.html)
         - [x] [Supporting Hashing (video) - 3:22](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Supporting-hashing/149042/177128-4.html)
