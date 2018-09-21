@@ -595,10 +595,10 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] Will not implement. Implementing with array is trivial.
 
 - ### Queue
-    - [ ] [Using Queues First-In First-Out(video) - 4:06](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html)
-    - [ ] [Queue (video) - NO LONGER WORKING](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
+    - [x] [Using Queues First-In First-Out(video) - 4:06](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html)
+    - [x] [Queue (video) - NO LONGER WORKING](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
     - [ ] [Circular buffer/FIFO (wiki page)](https://en.wikipedia.org/wiki/Circular_buffer)
-    - [ ] [Priority Queues (video) - 3:35](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html)
+    - [x] [Priority Queues (video) - 3:35](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html)
     - [ ] Implement using linked-list, with tail pointer:
         - enqueue(value) - adds value at position at tail
         - dequeue() - returns value and removes least recently added element (front)
