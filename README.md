@@ -647,7 +647,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - ### Binary search
     - [x] [Binary Search (video) - 11:57](https://www.youtube.com/watch?v=D5SrAga1pno)
-    - [ ] [Binary Search (article)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
+    - [x] [Binary Search (article)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
     - [ ] [Top Coder: Binary Search (article)](https://web.archive.org/web/20180216130323/https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search)
     - [ ] Implement:
         - binary search (on sorted array of integers)
