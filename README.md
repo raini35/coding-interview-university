@@ -648,7 +648,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - ### Binary search
     - [x] [Binary Search (video) - 11:57](https://www.youtube.com/watch?v=D5SrAga1pno)
     - [x] [Binary Search (article)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
-    - [ ] [Top Coder: Binary Search (article)](https://web.archive.org/web/20180216130323/https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search)
+    - [x] [Top Coder: Binary Search (article)](https://web.archive.org/web/20180216130323/https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search)
     - [ ] Implement:
         - binary search (on sorted array of integers)
         - binary search using recursion
@@ -657,7 +657,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] [Bits cheat sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-cheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
     - [ ] Get a really good understanding of manipulating bits with: &, |, ^, ~, >>, <<
         - [ ] [words](https://en.wikipedia.org/wiki/Word_(computer_architecture))
-        - [ ] Good intro:
+        - [x] Good intro:
             [Bit Manipulation (video) - 34:20](https://www.youtube.com/watch?v=7jkIUgLC29I)
         - [ ] [C Programming Tutorial 2-10: Bitwise Operators (video) - 9:50](https://www.youtube.com/watch?v=d0AwjSpNXR0)
         - [ ] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
