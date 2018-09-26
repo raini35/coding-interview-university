@@ -689,6 +689,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - ### Trees - Notes & Background
     - [x] [Series: Core Trees (video) - 3:09](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-trees-ovovP)
     - [x] [Series: Trees (video) - 11:12](https://www.coursera.org/lecture/data-structures/trees-95qda)
+    - [ ] [Series: Tree Traversal](https://www.coursera.org/lecture/data-structures/tree-traversal-fr51b)
     - basic tree construction
     - traversal
     - manipulation algorithms
