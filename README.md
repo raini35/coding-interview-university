@@ -660,8 +660,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [x] Good intro:
             [Bit Manipulation (video) - 34:20](https://www.youtube.com/watch?v=7jkIUgLC29I)
         - [x] [C Programming Tutorial 2-10: Bitwise Operators (video) - 9:50](https://www.youtube.com/watch?v=d0AwjSpNXR0)
-        - [ ] [Bit Manipulation - (wiki page)](https://en.wikipedia.org/wiki/Bit_manipulation)
-        - [ ] [Bitwise Operation (wiki page)](https://en.wikipedia.org/wiki/Bitwise_operation)
+        - [x] [Bit Manipulation - (wiki page) DIDN'T WRITE NOTE CARDS](https://en.wikipedia.org/wiki/Bit_manipulation)
+        - [ ] [Bitwise Operation (wiki page) DIDN'T WRITE NOTE CARDS](https://en.wikipedia.org/wiki/Bitwise_operation)
         - [ ] [Bithacks - (article)](https://graphics.stanford.edu/~seander/bithacks.html)
         - [ ] [The Bit Twiddler - (article)](http://bits.stephan-brumme.com/)
         - [ ] [The Bit Twiddler Interactive - (article)](https://bits.stephan-brumme.com/interactive.html)
