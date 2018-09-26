@@ -665,10 +665,14 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [ ] [Bithacks - (article)](https://graphics.stanford.edu/~seander/bithacks.html)
         - [ ] [The Bit Twiddler - (article)](http://bits.stephan-brumme.com/)
         - [ ] [The Bit Twiddler Interactive - (article)](https://bits.stephan-brumme.com/interactive.html)
-    - [ ] 2s and 1s complement
+    - [x] 2s and 1s complement
         - [Binary: Plusses & Minuses (Why We Use Two's Complement) (video) - 16:15](https://www.youtube.com/watch?v=lKTsv6iVxV4)
         - [1s Complement (wiki page)](https://en.wikipedia.org/wiki/Ones%27_complement)
         - [2s Complement (wiki page)](https://en.wikipedia.org/wiki/Two%27s_complement)
+        - Added Myself (This following videos helped me more):
+          - [Twos complement: Negative numbers in binary (video) - 13:49](https://www.youtube.com/watch?v=4qH4unVtJkE)
+          - [One's Complement, Two's Complement, and Signed Magnitude (video) - 4:15](https://www.youtube.com/watch?v=Z3mswCN2FJs)
+          - [Twos Complement Notation (video) - 9:47](https://www.youtube.com/watch?v=_6_X0_Amo4Y)
     - [ ] count set bits
         - [4 ways to count bits in a byte (video) - 8:57](https://youtu.be/Hzuzo9NJrlc)
         - [Count Bits - (article)](https://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan)
