@@ -689,16 +689,16 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - ### Trees - Notes & Background
     - [x] [Series: Core Trees (video) - 3:09](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-trees-ovovP)
     - [x] [Series: Trees (video) - 11:12](https://www.coursera.org/lecture/data-structures/trees-95qda)
-    - [ ] [Series: Tree Traversal](https://www.coursera.org/lecture/data-structures/tree-traversal-fr51b)
+    - [ ] [Series: Tree Traversal (video) - 10:25](https://www.coursera.org/lecture/data-structures/tree-traversal-fr51b)
     - basic tree construction
     - traversal
     - manipulation algorithms
-    - BFS (breadth-first search)
+    - [x] BFS (breadth-first search)
         - [MIT (video) - 50:47](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
         - level order (BFS, using queue)
             time complexity: O(n)
             space complexity: best: O(1), worst: O(n/2)=O(n)
-    - DFS (depth-first search)
+    - [x] DFS (depth-first search)
         - [MIT (video) - 50:30](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
         - notes:
             time complexity: O(n)
