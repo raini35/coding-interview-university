@@ -749,7 +749,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [x] [Basic Operations (video) - 12:41](https://www.coursera.org/learn/data-structures/lecture/0g1dl/basic-operations)
     - [x] [Complete Binary Trees (video) - 9:27](https://www.coursera.org/learn/data-structures/lecture/gl5Ni/complete-binary-trees)
     - [x] [Pseudocode (video) - 8:31](https://www.coursera.org/learn/data-structures/lecture/HxQo9/pseudocode)
-    - [ ] [Heap Sort - jumps to start (video) - ~41:00](https://youtu.be/odNJmw5TOEE?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3291)
+    - [x] [Heap Sort - jumps to start (video) - ~41:00](https://youtu.be/odNJmw5TOEE?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3291)
     - [ ] [Heap Sort (video) - 10:57](https://www.coursera.org/learn/data-structures/lecture/hSzMO/heap-sort)
     - [ ] [Building a heap (video) - 10:34](https://www.coursera.org/learn/data-structures/lecture/dwrOS/building-a-heap)
     - [ ] [MIT: Heaps and Heap Sort (video) - 52:31](https://www.youtube.com/watch?v=B7hVxCmfPtM&index=4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
