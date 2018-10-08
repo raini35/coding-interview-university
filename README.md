@@ -752,7 +752,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [x] [Heap Sort - jumps to start (video) - ~41:00](https://youtu.be/odNJmw5TOEE?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3291)
     - [x] [Heap Sort (video) - 10:57](https://www.coursera.org/learn/data-structures/lecture/hSzMO/heap-sort)
     - [x] [Building a heap (video) - 10:34](https://www.coursera.org/learn/data-structures/lecture/dwrOS/building-a-heap)
-    - [ ] [MIT: Heaps and Heap Sort (video) - 52:31](https://www.youtube.com/watch?v=B7hVxCmfPtM&index=4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+    - [x] [MIT: Heaps and Heap Sort (video) - 52:31](https://www.youtube.com/watch?v=B7hVxCmfPtM&index=4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
     - [ ] [CS 61B Lecture 24: Priority Queues (video) - 57:01](https://archive.org/details/ucberkeley_webcast_yIUFT6AKBGE)
     - [ ] [Linear Time BuildHeap (max-heap) - 5:19](https://www.youtube.com/watch?v=MiyLo8adrWw)
     - [ ] Implement a max-heap:
