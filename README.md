@@ -741,7 +741,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - ### Heap / Priority Queue / Binary Heap
     - visualized as a tree, but is usually linear in storage (array, linked list)
-    - [ ] [Heap (wiki page)](https://en.wikipedia.org/wiki/Heap_(data_structure))
+    - [x] [Heap (wiki page)](https://en.wikipedia.org/wiki/Heap_(data_structure))
     - [x] [Introduction (video) - 6:07](https://www.coursera.org/learn/data-structures/lecture/2OpTs/introduction)
     - [Naive Implementations (video) - NO LONGER AVAILABLE](https://www.coursera.org/learn/data-structures/lecture/z3l9N/naive-implementations)
     - [x] [Binary Trees (video) - 1:25](https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees)
