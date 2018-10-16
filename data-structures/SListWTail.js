@@ -1,6 +1,7 @@
 class SList {
   constructor() {
     this.head = null;
+    this.tail = null;
     this.size = 0;
   }
   set head(value) {
@@ -20,6 +21,15 @@ class SList {
     return this._size;
   }
 
+  set tail(value) {
+    this._tail = value;
+    return;
+  }
+
+  get tail() {
+    return this._tail;
+  }
+
   isEmpty() {
     if(!this._size) {
       return true;
@@ -29,7 +39,7 @@ class SList {
 
   valueAt(index) {
     var counter = 0;
-    var currentNode = head;
+    var currentNode = this._head;
 
     while(counter !== index ) {
       currentNode = currentNode.next;
@@ -43,8 +53,86 @@ class SList {
     var newNode = new SListNode(value);
     newNode.next = this._head;
     this._head = newNode;
+
+    if(this._size === 0) {
+      this._tail = newNode;
+    }
+
+    this._size = this._size + 1;
+
+    return;
+
+  }
+
+  popFront() {
+    var headValue = this._head._item;
+    this._head = this._head._next;
+    this._size = this._size - 1;
+    return headValue;
+  }
+
+  pushBack(value) {
+    var newNode = new SListNode(value);
+    this._tail.next = newNode;
+    this._tail = newNode;
+
     this._size = this._size + 1;
     return;
+  }
+
+  popBack() {
+    var tailValue = this._tail._item;
+    var currentNode = this._head;
+
+    while(currentNode.next.next !== null ) {
+      currentNode = currentNode.next;
+    }
+
+    currentNode.next = null;
+    this._tail = currentNode;
+
+    this._size = this._size - 1;
+    return tailValue;
+  }
+
+  front() {
+    return this._head._item;
+  }
+
+  back() {
+    return this._tail._item;
+  }
+
+  insert(index, value) {
+    var counter = 0;
+
+  }
+
+  erase(index) {
+
+  }
+
+  valueNFromEnd(n) {
+
+  }
+
+  reverse() {
+
+  }
+
+  removeValue(value) {
+    var counter = 1;
+    var currentNode = this._head;
+    var notFound = true;
+
+    while(notFound || counter !== this._size) {
+      if(currentNode.item === value) {
+        notFound = true;
+      } else {
+        currentNode = currentNode.next;
+        counter = counter + 1;
+      }
+    }
   }
 }
 
@@ -74,13 +162,7 @@ class SListNode {
 
 }
 
-// value_at(index) - returns the value of the nth item (starting at 0 for first)
-// push_front(value) - adds an item to the front of the list
-// pop_front() - remove front item and return its value
-// push_back(value) - adds an item at the end
-// pop_back() - removes end item and returns its value
-// front() - get value of front item
-// back() - get value of end item
+
 // insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
 // erase(index) - removes node at given index
 // value_n_from_end(n) - returns the value of the node at nth position from the end of the list
@@ -89,10 +171,18 @@ class SListNode {
 
 var x = new SList();
 console.log(x);
-console.log(x.size);
-console.log(x.isEmpty())
 console.log(x.pushFront(4));
+console.log(x);
 console.log(x.pushFront(3));
+console.log(x);
 console.log(x.pushFront(2));
+console.log(x);
 console.log(x.pushFront(1));
 console.log(x)
+console.log(x.valueAt(1))
+console.log(x.popFront());
+console.log(x);
+console.log(x.pushBack(5));
+console.log(x);
+console.log(x.popBack());
+console.log(x);
