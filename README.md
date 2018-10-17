@@ -791,11 +791,11 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [x] [4. Comparators - 6:40](https://www.youtube.com/watch?v=7MvC1kmBza0&index=4&list=PLe-ggMe31CTeunC6GZHFBmQx7EKtjbGf9)
     - [x] [5. Stability - 5:36](https://www.youtube.com/watch?v=XD_5iINB5GI&index=5&list=PLe-ggMe31CTeunC6GZHFBmQx7EKtjbGf9)
 
-- [ ] [Sedgewick - Quicksort (4 videos)](https://www.coursera.org/lecture/algorithms-part1/quicksort-vjvnC)
-    - [ ] [1. Quicksort - 19:30](https://www.coursera.org/lecture/algorithms-part1/quicksort-vjvnC)
-    - [ ] [2. Selection - 7:05](https://www.coursera.org/lecture/algorithms-part1/selection-UQxFT)
-    - [ ] [3. Duplicate Keys - 11:21](https://www.coursera.org/lecture/algorithms-part1/duplicate-keys-XvjPd)
-    - [ ] [4. System Sorts - 11:46](https://www.coursera.org/lecture/algorithms-part1/system-sorts-QBNZ7)
+- [x] [Sedgewick - Quicksort (4 videos)](https://www.coursera.org/lecture/algorithms-part1/quicksort-vjvnC)
+    - [x] [1. Quicksort - 19:30](https://www.coursera.org/lecture/algorithms-part1/quicksort-vjvnC)
+    - [x] [2. Selection - 7:05](https://www.coursera.org/lecture/algorithms-part1/selection-UQxFT)
+    - [x] [3. Duplicate Keys - 11:21](https://www.coursera.org/lecture/algorithms-part1/duplicate-keys-XvjPd)
+    - [x] [4. System Sorts - 11:46](https://www.coursera.org/lecture/algorithms-part1/system-sorts-QBNZ7)
 
 - [ ] UC Berkeley:
     - [ ] [CS 61B Lecture 29: Sorting I (video) - 43:10](https://archive.org/details/ucberkeley_webcast_EiUvYS2DT6I)
