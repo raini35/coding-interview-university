@@ -798,7 +798,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [x] [4. System Sorts - 11:46](https://www.coursera.org/lecture/algorithms-part1/system-sorts-QBNZ7)
 
 - [ ] UC Berkeley:
-    - [ ] [CS 61B Lecture 29: Sorting I (video) - 43:10](https://archive.org/details/ucberkeley_webcast_EiUvYS2DT6I)
+    - [x] [CS 61B Lecture 29: Sorting I (video) - 43:10](https://archive.org/details/ucberkeley_webcast_EiUvYS2DT6I)
     - [ ] [CS 61B Lecture 30: Sorting II (video) - 48:10](https://archive.org/details/ucberkeley_webcast_2hTY3t80Qsk)
     - [ ] [CS 61B Lecture 32: Sorting III (video) - 47:52](https://archive.org/details/ucberkeley_webcast_Y6LOLpxg6Dc)
     - [ ] [CS 61B Lecture 33: Sorting V (video) - 54:19](https://archive.org/details/ucberkeley_webcast_qNMQ4ly43p4)
